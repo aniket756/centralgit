@@ -1,0 +1,27 @@
+[33mcommit b2152e0f534ad4d398d5e65e3ea8bd4ccbd9ecf6[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: aruna <aruna30101990@gmail.com>
+Date:   Sat Jul 19 05:59:18 2025 +0000
+
+    my first commit from aruna
+
+[1mdiff --git a/file1 b/file1[m
+[1mnew file mode 100644[m
+[1mindex 0000000..c5ccc54[m
+[1m--- /dev/null[m
+[1m+++ b/file1[m
+[36m@@ -0,0 +1,7 @@[m
+[32m+[m[32mhello dear nice to meet you,[m
+[32m+[m[32mhow are you dear,[m
+[32m+[m[32mi am fine and to good.[m
+[32m+[m[32mhello dear nice to meet you,[m
+[32m+[m[32mhow are you dear,[m
+[32m+[m[32mi am fine and to good.[m
+[32m+[m
+[1mdiff --git a/samu2 b/samu2[m
+[1mnew file mode 100644[m
+[1mindex 0000000..ecd85d7[m
+[1m--- /dev/null[m
+[1m+++ b/samu2[m
+[36m@@ -0,0 +1,2 @@[m
+[32m+[m[32mhello everyone, can i help you[m
+[32m+[m
